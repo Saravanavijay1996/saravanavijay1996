@@ -1,4 +1,4 @@
-💫 About Me:
+**💫 About Me:**
 
 Hi there, Saravana here!
 
@@ -10,8 +10,10 @@ I'm a Data Enthusiast, environmentalist, business analyst passionate about analy
 
 - 👯 I’m looking to collaborate on cool, green and sustainable projects
 
-Skills and Technologies 🛠️
+**Skills and Technologies 🛠️**
+
 Programming Languages:
 Python, SQL, Excel 📜
-Machine Learning & Data Science
+
+**Machine Learning & Data Science**
 Scikit-Learn, PyTorch & TensorFlow
