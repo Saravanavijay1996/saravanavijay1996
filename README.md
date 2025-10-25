@@ -1,16 +1,15 @@
-## Hi there 👋
+💫 About Me:
+Hi there, Saravana here!
+I'm a Data Enthusiast, environmentalist, business analyst passionate about analyzing data, building pipelines, and solving real-world problems with Python and SQL.
 
-<!--
-**Saravanavijay1996/saravanavijay1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 Currently learning deep learning and AI for predictive analytics
+  
+- 💻 Exploring advanced data engineering techniques
 
-Here are some ideas to get you started:
+- 👯 I’m looking to collaborate on cool, green and sustainable projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills and Technologies 🛠️
+Programming Languages:
+Python, SQL, Excel 📜
+Machine Learning & Data Science
+Scikit-Learn, PyTorch & TensorFlow
