@@ -2,7 +2,7 @@
 
 Hi there, Saravana here!
 
-I'm a Data Enthusiast, environmentalist, business analyst passionate about analyzing data, building pipelines, and solving real-world problems with Python and SQL.
+I'm a Data Enthusiast, environmentalist, business analyst passionate about analyzing data, building pipelines, and solving real-world problems with Python, SQL and Excel.
 
 - 🌱 Currently learning deep learning and AI for predictive analytics
   
